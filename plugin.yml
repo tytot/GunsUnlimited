@@ -1,0 +1,6 @@
+name: GunsUnlimited
+main: GunsUnlimited\Main
+description: Five guns in one plugin!
+version: 2.0
+author: Potato
+api: [2.0.0]
