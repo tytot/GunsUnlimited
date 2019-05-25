@@ -1,2 +1,3 @@
 # GunsUnlimited
-My first (and worst) plugin
+My first plugin.
+Adds guns to Minecraft PE using PHP
